@@ -20,11 +20,13 @@ Gem::Specification.new do |s|
     ".document",
     ".rspec",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
     "lib/misawa.rb",
+    "misawa.gemspec",
     "spec/misawa_spec.rb",
     "spec/spec_helper.rb"
   ]
